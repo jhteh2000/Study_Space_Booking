@@ -49,5 +49,6 @@ def check_page_loaded():
             break
 
 check_current_time("12:00")
+sleep(0.2)
 auto_booking(8)
 print("Operation Ended")
